@@ -59,6 +59,14 @@ You'll be prompted to enter your OpenAI API key. You can get one from [OpenAI's 
 
 ## Usage
 
+First, make the script executable:
+
+```bash
+chmod +x yt-summary.sh
+```
+
+Then run the script:
+
 ```bash
 ./yt-summary.sh <youtube_url>
 ```
